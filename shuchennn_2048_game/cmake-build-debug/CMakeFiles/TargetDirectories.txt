@@ -1,0 +1,3 @@
+C:/Users/shuchennnn/CLionProjects/shuchennn_2048_game/cmake-build-debug/CMakeFiles/shuchennn_2048_game.dir
+C:/Users/shuchennnn/CLionProjects/shuchennn_2048_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shuchennnn/CLionProjects/shuchennn_2048_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
